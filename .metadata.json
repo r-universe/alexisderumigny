@@ -1,0 +1,14 @@
+[
+  {
+    "package": "CondCopulas",
+    "oncran": true
+  },
+  {
+    "package": "ElliptCopulas",
+    "oncran": true
+  },
+  {
+    "package": "MMDCopula",
+    "oncran": true
+  }
+]

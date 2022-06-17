@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CondCopulas"]
+	path = CondCopulas
+	url = https://github.com/alexisderumigny/condcopulas
+	shallow = true
+	registered = true
+[submodule "ElliptCopulas"]
+	path = ElliptCopulas
+	url = https://github.com/alexisderumigny/elliptcopulas
+	shallow = true
+	registered = true
+[submodule "MMDCopula"]
+	path = MMDCopula
+	url = https://github.com/alexisderumigny/mmdcopula
+	shallow = true
+	registered = true
