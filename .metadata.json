@@ -1,5 +1,9 @@
 [
   {
+    "package": "BoundEdgeworth",
+    "oncran": true
+  },
+  {
     "package": "CondCopulas",
     "oncran": true
   },
