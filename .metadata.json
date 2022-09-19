@@ -10,9 +10,5 @@
   {
     "package": "ElliptCopulas",
     "oncran": true
-  },
-  {
-    "package": "MMDCopula",
-    "oncran": true
   }
 ]
