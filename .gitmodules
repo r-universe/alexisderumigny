@@ -18,3 +18,8 @@
 	url = https://github.com/alexisderumigny/elliptcopulas
 	shallow = true
 	registered = true
+[submodule "MMDCopula"]
+	path = MMDCopula
+	url = https://github.com/alexisderumigny/mmdcopula
+	shallow = true
+	registered = true
