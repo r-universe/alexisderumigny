@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MMDCopula"]
+	path = MMDCopula
+	url = https://github.com/alexisderumigny/mmdcopula
+	shallow = true
+	registered = true
 [submodule "BoundEdgeworth"]
 	path = BoundEdgeworth
 	url = https://github.com/alexisderumigny/boundedgeworth
@@ -16,10 +21,5 @@
 [submodule "ElliptCopulas"]
 	path = ElliptCopulas
 	url = https://github.com/alexisderumigny/elliptcopulas
-	shallow = true
-	registered = true
-[submodule "MMDCopula"]
-	path = MMDCopula
-	url = https://github.com/alexisderumigny/mmdcopula
 	shallow = true
 	registered = true

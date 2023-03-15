@@ -1,5 +1,9 @@
 [
   {
+    "package": "MMDCopula",
+    "oncran": true
+  },
+  {
     "package": "BoundEdgeworth",
     "oncran": true
   },
@@ -9,10 +13,6 @@
   },
   {
     "package": "ElliptCopulas",
-    "oncran": true
-  },
-  {
-    "package": "MMDCopula",
     "oncran": true
   }
 ]
