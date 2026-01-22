@@ -17,6 +17,9 @@
 [submodule "MMDCopula"]
 	path = MMDCopula
 	url = https://github.com/alexisderumigny/mmdcopula
+[submodule "NAVAECI"]
+	path = NAVAECI
+	url = https://github.com/alexisderumigny/navaeci
 [submodule "PCBN"]
 	path = PCBN
 	url = https://github.com/alexisderumigny/pcbn
